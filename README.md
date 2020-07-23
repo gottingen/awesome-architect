@@ -163,8 +163,14 @@
     * minus
     
 * nosql
-    * pika
-    
+    * redis系列
+        * ssdb
+        * redis
+        * pika
+    * bigtable系列
+        * bigtable
+        * hbase
+        * hypertable
 
 * 图数据库
     * X GRAPH
