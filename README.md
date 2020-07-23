@@ -78,4 +78,53 @@
     * kubernetes 网络方案
     * kubernetes 部署
     
+## 中间件
 
+* web server
+
+* 缓存
+* 消息队列
+    * 消息总线
+    * 消息的顺序
+    * rabbitmq
+    * rocketmq
+    * activemq
+    * kafka
+    * redis pub/sub
+    * zeromq
+* 定时调度
+    * 单机定时调度
+    * 分布式定时调度
+* rpc
+    * thrift
+    * rpc
+    * qrpc
+    * brpc
+* 日志收集
+* 配置中心
+* 服务发现
+    * hermes
+    * etcd
+    * zookeeper
+
+## 网络
+* 协议
+    * osi 七层协议
+    * tcp/ip
+    * udp
+    * http
+    * https
+    * http2.0
+    * http3.0
+* 网络模型
+    * select
+    * epoll
+    * kqueue
+* 连接与短连接 
+
+* 零拷贝
+    * dpdk
+* 序列化         
+    * json
+    * protobuf
+    * hessian
