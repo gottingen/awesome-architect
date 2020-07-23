@@ -131,9 +131,9 @@
     
 ## 编程语言
 
-* c++
-* go
-* rust
+* [c++](docs/go/README.md)
+* [go](docs/go/README.md)
+* [rust](docs/rust/README.md)
 
 ## 存储引擎
 
