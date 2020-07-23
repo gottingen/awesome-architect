@@ -156,6 +156,19 @@
 * PDCA 循环质量管理
 * FMEA管理模式
 
+## 分布式
+* 分布式文件系统
+    * hdfs 
+    * ceph
+    * minus
+    
+* nosql
+    * pika
+    
+
+* 图数据库
+    * X GRAPH
+
 ## 技术趋势
 
 ## 职业素养
